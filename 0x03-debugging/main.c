@@ -8,7 +8,7 @@ int main(void)
 {
 	int i;
 
-	i = 98 % 2;
+	i = 98;
 	positive_or negative(i);
 	return (0);
 }
